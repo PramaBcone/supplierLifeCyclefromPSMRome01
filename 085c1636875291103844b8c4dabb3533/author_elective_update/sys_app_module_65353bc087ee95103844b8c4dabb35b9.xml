@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Vendor Master Staging">1d353bc087ee95103844b8c4dabb35b5</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Vendor Master Stagings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_supl_mgmt_in_vendor_master_staging</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_supl_mgmt_in.vendor_master_staging_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 16:22:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65353bc087ee95103844b8c4dabb35b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Master Stagings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supplier Life Cycle Management Integration for SAP" source="x_snc_supl_mgmt_in">085c1636875291103844b8c4dabb3533</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supplier Life Cycle Management Integration for SAP">085c1636875291103844b8c4dabb3533</sys_scope>
+        <sys_update_name>sys_app_module_65353bc087ee95103844b8c4dabb35b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 16:22:32</sys_updated_on>
+        <timeline_page/>
+        <title>Vendor Master Stagings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supplier Life Cycle Management Integration for SAP">085c1636875291103844b8c4dabb3533</application>
+        <file_path/>
+        <instance_id>5d0da779db9a951042b321c405961954</instance_id>
+        <instance_name>psmrome01</instance_name>
+        <name>sys_app_module_65353bc087ee95103844b8c4dabb35b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vendor Master Staging">1d353bc087ee95103844b8c4dabb35b5</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Vendor Master Stagings</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_supl_mgmt_in_vendor_master_staging</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_snc_supl_mgmt_in.vendor_master_staging_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-10 16:22:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>65353bc087ee95103844b8c4dabb35b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vendor Master Stagings</sys_name><sys_overrides/><sys_package display_value="Supplier Life Cycle Management Integration for SAP" source="x_snc_supl_mgmt_in">085c1636875291103844b8c4dabb3533</sys_package><sys_policy/><sys_scope display_value="Supplier Life Cycle Management Integration for SAP">085c1636875291103844b8c4dabb3533</sys_scope><sys_update_name>sys_app_module_65353bc087ee95103844b8c4dabb35b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-10 16:22:32</sys_updated_on><timeline_page/><title>Vendor Master Stagings</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-833590787</payload_hash>
+        <record_name>Vendor Master Stagings</record_name>
+        <reverted_from/>
+        <source>ac6d9e7a875291103844b8c4dabb355f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 16:22:32</sys_created_on>
+        <sys_id>e5353bc087ee95103844b8c4dabb35bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183c2b47f830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 16:22:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>21353bc070ee9510c2f0731a7c2b36bc</update_guid>
+        <update_guid_history>21353bc070ee9510c2f0731a7c2b36bc:-833590787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vendor Master Stagings">8d9c30e287db111093264085dabb3580</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2022-11-24 04:07:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2b1ccf5e87a34c10a87c0d0e2ff26640</sys_id>
+        <sys_metadata>65353bc087ee95103844b8c4dabb35b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Master Stagings</sys_name>
+        <sys_package display_value="Supplier Life Cycle Management Integration for SAP" source="x_snc_supl_mgmt_in">085c1636875291103844b8c4dabb3533</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supplier Life Cycle Management Integration for SAP">085c1636875291103844b8c4dabb3533</sys_scope>
+        <sys_scope_delete display_value="">06b0e458e23945cf91f45fbf3ad397d1</sys_scope_delete>
+        <sys_update_name>sys_app_module_65353bc087ee95103844b8c4dabb35b9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_65353bc087ee95103844b8c4dabb35b9">e5353bc087ee95103844b8c4dabb35bc</sys_update_version>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2022-11-24 04:07:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
